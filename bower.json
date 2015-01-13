@@ -14,10 +14,10 @@
     "tests"
   ],
   "dependencies": {
-    "base": "gaia-components/base",
-    "gaia-component": "gaia-components/gaia-component#~0.1.3"
+    "gaia-component": "gaia-components/gaia-component#~0.2.0"
   },
   "devDependencies": {
+    "base": "gaia-components/base",
     "gaia-list": "gaia-components/gaia-list",
     "gaia-fonts": "gaia-components/gaia-font#~0.2.1",
     "gaia-theme": "gaia-components/gaia-theme#~0.4.4"
